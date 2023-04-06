@@ -1,3 +1,5 @@
+NOTE: Demo project already has these steps implemented, you only need to register System.ValueTuple netstandard1.0 dll in GAC
+
 ## Steps to reproduce the issue
 
 1. Have System.ValueTuple netstandard1.0 dll in GAC
