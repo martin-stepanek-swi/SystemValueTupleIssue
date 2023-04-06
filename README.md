@@ -83,6 +83,6 @@ Because of the same signature and order of assembly binding, the dll from GAC is
 NOTE: Because the signature is same and only internal implementation differs, FusionLog will not show any issue.
 
 ## Possible workarounds right now
-1. Replacing System.ValueTuple.dll netstandard1.0 with System.ValueTuple.dll net47
-2. Delete of binding redirect from *ValueTupleIssueDemo.exe.config* also is enough (after autogeneration)
+1. Replacing System.ValueTuple.dll netstandard1.0 with System.ValueTuple.dll net47 in GAC
+2. Deletion of binding redirect from *ValueTupleIssueDemo.exe.config* also is enough (after autogeneration)
 3. Replace value.tuple with tuple
