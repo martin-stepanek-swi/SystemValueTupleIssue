@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTupleIssueDemo", "ValueTupleIssueDemo\ValueTupleIssueDemo.csproj", "{DA3D1632-20FD-466F-A6BF-387EA242079A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryNetStandard2", "ClassLibraryNetStandard2\ClassLibraryNetStandard2.csproj", "{A6A6FF4A-32B7-4B3A-B4AA-F70EE3453F81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6AD2CA74-AF50-491C-8A2A-90CE68B53236}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3D1632-20FD-466F-A6BF-387EA242079A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3D1632-20FD-466F-A6BF-387EA242079A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3D1632-20FD-466F-A6BF-387EA242079A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3D1632-20FD-466F-A6BF-387EA242079A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A6FF4A-32B7-4B3A-B4AA-F70EE3453F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A6FF4A-32B7-4B3A-B4AA-F70EE3453F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A6FF4A-32B7-4B3A-B4AA-F70EE3453F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A6FF4A-32B7-4B3A-B4AA-F70EE3453F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D88B573-2C45-4442-9EC5-899C69CD731F}
+	EndGlobalSection
+EndGlobal
