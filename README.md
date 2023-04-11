@@ -3,7 +3,7 @@ NOTE: Demo project already has these steps implemented, you only need to registe
 ## Steps to reproduce the issue
 
 1. Have System.ValueTuple netstandard1.0 dll in GAC
-(can be taken from https://www.nuget.org/packages/System.ValueTuple/)
+(can be taken from  https://www.nuget.org/packages/System.ValueTuple/4.5.0/)
 2. Create console app targeting net48
 3. Have auto generated binding redirects ON for the console app project.
 4. Add nuget package *Microsoft.Extensions.Configuration.Json* v. 3.1.22  (version is not relevant, can be newer as well)
